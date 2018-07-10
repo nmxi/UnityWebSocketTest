@@ -21,4 +21,6 @@ https://github.com/sta/websocket-sharp
 https://github.com/neuecc/UniRx
 
 ## LICENCE
-MIT
+This library is under the MIT License.
+
+Some code is borrowed from websocket-sharp and UniRx
