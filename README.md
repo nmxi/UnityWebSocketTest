@@ -21,4 +21,6 @@ https://github.com/neuecc/UniRx
 ## LICENCE
 This library is under the MIT License.
 
-Some code is borrowed from websocket-sharp and UniRx
+Some code is borrowed from websocket-sharp and UniRx.
+
+Thanks to developers of websocket-sharp and UniRx.
